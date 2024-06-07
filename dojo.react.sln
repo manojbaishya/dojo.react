@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dojo.react.api", "dojo.react.api\dojo.react.api.csproj", "{147BCB86-8E3F-43B2-923A-DA111D905B21}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dojo.react", "dojo.react\dojo.react.esproj", "{1FF599B0-0DC2-4E14-AB7B-6112785784D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7D46D315-764C-40B4-8142-05500C3DF5CD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E805D195-8D60-4A1A-9AC5-8B5DEE7F37CC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147BCB86-8E3F-43B2-923A-DA111D905B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147BCB86-8E3F-43B2-923A-DA111D905B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147BCB86-8E3F-43B2-923A-DA111D905B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147BCB86-8E3F-43B2-923A-DA111D905B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF599B0-0DC2-4E14-AB7B-6112785784D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
